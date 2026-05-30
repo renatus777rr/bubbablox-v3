@@ -1,5 +1,5 @@
 ## please do not contact me on trying to get the source setup. there are many guides on how to and if you read this guide properly you shouldn't need help.
-## WARNING: ORIGINAL SOURCE CODE IS NOW ARCHIVED, I WILL TRY IMPROVING THIS. OLD README/GUIDE RETURNED.
+## WARNING: ORIGINAL SOURCE CODE IS NOW ARCHIVED, I WILL TRY IMPROVING THIS. OLD README/GUIDE RETURNED. DO NOT USE IT FOR PUBLIC REVIVALS OR BIG PRIVATE REVIVALS. BETTER FOR FRIENDS/SMALL PRIVATE REVS.  Original: sysstats being patched version compatibility being patched clients being insecure insecure apis site crashing under heavy load controller issues a lot more, just generally a terrible codebase and the site not being able to handle load. not good if you want a lot of players
 <div align="center">
     <p>
       <h1>BubbaBlox</h1>
